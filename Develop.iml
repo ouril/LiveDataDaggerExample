@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="Develop" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$" external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="java-gradle" name="Java-Gradle">
+      <configuration>
+        <option name="BUILD_FOLDER_PATH" value="$MODULE_DIR$/build" />
+        <option name="BUILDABLE" value="false" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/angularDartStart/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/angularDartStart/build" />
+      <excludeFolder url="file://$MODULE_DIR$/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/test/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/test/build" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/build" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/flutter_test_widgets/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/flutter_test_widgets/build" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/audioplayers/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/audioplayers/build" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/audioplayers/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/audioplayers/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/contacts_service/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/contacts_service/build" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/contacts_service/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/contacts_service/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/firebase_analytics/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/firebase_analytics/build" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/firebase_analytics/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/firebase_analytics/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/firebase_core/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/firebase_core/build" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/firebase_core/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/firebase_core/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/flutter_sound/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/flutter_sound/build" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/flutter_sound/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/flutter_sound/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/path_provider/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/path_provider/build" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/path_provider/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/path_provider/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/share_extend/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/share_extend/build" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/share_extend/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/share_extend/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/shared_preferences/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/shared_preferences/build" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/shared_preferences/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/shared_preferences/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/simple_permissions/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/simple_permissions/build" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/simple_permissions/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/simple_permissions/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/url_launcher/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/url_launcher/build" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/url_launcher/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/.symlinks/plugins/url_launcher/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/vpbx-mobile/ios/build" />
+      <excludeFolder url="file://$MODULE_DIR$/web_page_dart/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/web_page_dart/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

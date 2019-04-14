@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">liveDataDaggerExample</string>
+
+    <string name="name_placeholder">NAME</string>
+    <string name="phone_placeholder">PHONE</string>
+    <string name="email_placeholder">EMAIL</string>
+
+    <string name="button_data">SAVE DATA</string>
+</resources>
